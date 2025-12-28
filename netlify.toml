@@ -1,8 +1,4 @@
 [build]
-  publish = "dist"
-  functions = "netlify/functions"
-
-[build]
   command = "npm run build"
   publish = "dist"
 
